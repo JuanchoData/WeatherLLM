@@ -1,0 +1,7 @@
+{
+    "model": "DistilBERT + LoRA",
+    "accuracy": 0.9261297798377752,
+    "precision_macro": 0.9242669627303223,
+    "recall_macro": 0.9241446057286855,
+    "f1_macro": 0.9237046793403765
+}
